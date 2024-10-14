@@ -1,0 +1,60 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "title": "校园马拉松",
+      "description": "一起来跑步吧！挑战自我，超越极限。",
+      "participants": 50,
+      "maxParticipants": 100,
+      "startTime": "2023-06-15 09:00",
+      "endTime": "2023-06-15 12:00",
+      "registrationDeadline": "2023-06-14 18:00",
+      "circle": "运动圈",
+      "initiator": "张三",
+      "initiateTime": "2023-06-01 10:00",
+      "status": "approved"
+    },
+    {
+      "id": 2,
+      "title": "编程竞赛",
+      "description": "展示你的编程技能！激发创意，编写未来。",
+      "participants": 30,
+      "maxParticipants": 50,
+      "startTime": "2023-06-20 14:00",
+      "endTime": "2023-06-20 18:00",
+      "registrationDeadline": "2023-06-19 22:00",
+      "circle": "技术圈",
+      "initiator": "李四",
+      "initiateTime": "2023-06-02 14:00",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "title": "校园音乐节",
+      "description": "一起来享受音乐的魅力！让音乐点燃你的夏日。",
+      "participants": 200,
+      "maxParticipants": 500,
+      "startTime": "2023-06-25 18:00",
+      "endTime": "2023-06-25 22:00",
+      "registrationDeadline": "2023-06-24 20:00",
+      "circle": "文化圈",
+      "initiator": "王五",
+      "initiateTime": "2023-06-03 09:00",
+      "status": "approved"
+    },
+    {
+      "id": 4,
+      "title": "创新创业大赛",
+      "description": "展示你的创业想法！点燃创新火花，成就创业梦想。",
+      "participants": 20,
+      "maxParticipants": 30,
+      "startTime": "2023-07-01 10:00",
+      "endTime": "2023-07-01 17:00",
+      "registrationDeadline": "2023-06-30 18:00",
+      "circle": "创业圈",
+      "initiator": "赵六",
+      "initiateTime": "2023-06-04 11:00",
+      "status": "pending"
+    }
+  ]
+}
